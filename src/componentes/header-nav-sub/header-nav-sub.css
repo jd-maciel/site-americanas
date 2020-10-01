@@ -1,0 +1,9 @@
+#headernavsub{
+    position: relative; 
+    float: left;     
+    width: 100%; 
+    height: 40px;   
+    background-color: rgb(255, 255, 255);
+
+    box-shadow: rgba(0, 0, 0, 0.192) 1px 1px 1px;
+}

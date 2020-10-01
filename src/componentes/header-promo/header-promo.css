@@ -1,0 +1,12 @@
+#headerpromo{
+    position: relative;  
+
+    width: 100%;    
+    background-color: rgb(255, 255, 255);
+}
+
+#promotopo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

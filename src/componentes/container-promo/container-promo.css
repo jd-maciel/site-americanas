@@ -1,0 +1,12 @@
+#containerpromo{
+    position: relative; 
+    float: left;     
+    width: 100%; 
+   
+    /*background-color: rgb(216, 210, 210);*/
+
+    margin-top: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

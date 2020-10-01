@@ -1,0 +1,47 @@
+#headermid{
+    position: relative;  
+    float: left;  
+    width: 100%; 
+    height: 100px;   
+    background-color: rgb(255, 0, 0);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#logo{
+    position: relative;  
+    float: left;  
+    width: 10%; 
+    height: 100px;  
+      
+    background-color: rgb(39, 202, 61); 
+   
+}
+
+#busca{
+    position: relative;  
+    float: left;  
+    width: 40%; 
+    height: 100px;   
+    background-color: rgb(39, 202, 175);
+}
+
+#cadastro{
+    position: relative;  
+    float: left;  
+    width: 10%; 
+    height: 100px;   
+    background-color: rgb(39, 63, 202);
+}
+
+#icone{
+    position: relative;  
+    float: left;  
+    width: 10%; 
+    height: 100px;   
+    background-color: rgb(183, 39, 202);
+}
+
