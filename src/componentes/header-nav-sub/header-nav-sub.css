@@ -6,4 +6,52 @@
     background-color: rgb(255, 255, 255);
 
     box-shadow: rgba(0, 0, 0, 0.192) 1px 1px 1px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+.menu-sub{
+    position: relative;
+    float: left;
+    width: 8%;
+    height: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    z-index: 100;
+
+    
+}
+
+#cor1{
+    /*background-color: chocolate;*/
+    width: 15%;
+    color: red;
+}
+/*
+#cor2{
+    background-color: rgb(78, 66, 57);
+}
+#cor3{
+    background-color: rgb(30, 210, 180);
+}
+#cor4{
+    background-color: rgb(33, 30, 210);
+}
+#cor5{
+    background-color: rgb(210, 30, 186);
+}
+#cor6{
+    background-color: rgb(210, 30, 120);
+}
+#cor7{
+    background-color: rgb(111, 210, 30);
+}
+#cor8{
+    background-color: rgb(210, 207, 30);
+}
+*/

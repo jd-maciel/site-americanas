@@ -9,6 +9,7 @@ import Banner2 from '../../assets/banner2.jpg'
 import Banner3 from '../../assets/banner3.jpg'
 
 
+
 const Bannerrotativo = () => (
     <main id="bannerrotativo">
 

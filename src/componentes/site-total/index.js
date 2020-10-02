@@ -4,6 +4,7 @@ import Headermid from '../header-mid';
 import Headernav from '../header-nav';
 import Headernavsub from '../header-nav-sub';
 import Containerpromo from '../container-promo';
+import Bannermid from '../banner-mid';
 
 import Bannerrotativo from '../banner-rotativo';
 
@@ -17,7 +18,6 @@ const Sitetotal = () => (
     
         <Headerpromo />
 
-
         <Headermid />
 
         <Headernav />
@@ -29,6 +29,8 @@ const Sitetotal = () => (
         <Bannerrotativo />
 
         <Carousel />
+
+        <Bannermid />
     
     </container>
 

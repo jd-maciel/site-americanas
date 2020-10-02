@@ -17,7 +17,10 @@
     width: 10%; 
     height: 100px;  
       
-    background-color: rgb(39, 202, 61); 
+    /*background-color: rgb(39, 202, 61); */
+
+    overflow: hidden;
+   
    
 }
 
@@ -26,7 +29,9 @@
     float: left;  
     width: 40%; 
     height: 100px;   
-    background-color: rgb(39, 202, 175);
+    /*background-color: rgb(39, 202, 175);*/
+
+  
 }
 
 #cadastro{
@@ -34,7 +39,11 @@
     float: left;  
     width: 10%; 
     height: 100px;   
-    background-color: rgb(39, 63, 202);
+    /*background-color: rgb(39, 63, 202);*/
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #icone{
@@ -42,6 +51,88 @@
     float: left;  
     width: 10%; 
     height: 100px;   
-    background-color: rgb(183, 39, 202);
+    /*background-color: rgb(183, 39, 202);*/
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+#form-formatacao{
+    position: relative;
+    float: left;
+    width: 80%;
+
+    margin-top: 4%;
+    margin-left: 4%;    
+}
+
+#button-formatacao{
+    margin-top: 4%;
+}
+
+
+
+#icon-user{
+    position: relative;
+    float: left;
+    width: 30%;
+    
+    /*background-color: burlywood;*/
+    color: #fff;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#cadastro-user{
+    position: relative;
+    float: left;
+    width: 70%;
+    height: 100%;
+    /*background-color: rgb(54, 199, 204);*/
+    z-index: 100;
+
+    color: #fff;
+    size: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#divisao-icon1{
+    position: relative;
+    float: left;
+    width: 50%;
+    
+    /*background-color: chocolate;*/
+    z-index: 100;
+
+    color: #fff;    
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#divisao-icon2{
+    position: relative;
+    float: left;
+    width: 50%;
+    
+    /*background-color: rgb(36, 27, 21);*/
+    z-index: 100;
+
+    color: #fff;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
 
