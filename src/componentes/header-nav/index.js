@@ -2,29 +2,35 @@ import React from 'react';
 import './header-nav.css';
 
 
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 const Headernav = () => (
-    <header id="headernav">   
+    <header id="headernav">
 
-        <span id="cor-nav1" class="menu-cima"> Informe seu CEP</span>  
+        <div id="mateus">
 
-        <span id="cor-nav2" class="menu-cima"> Seja a mais </span>   
+            <div class="menu-cima"> Informe seu CEP</div>
 
-        <span id="cor-nav3" class="menu-cima"> Empresas </span>   
+            <div  class="menu-cima"> Seja a mais </div>
 
-        <span id="cor-nav4" class="menu-cima"> Vote na gente </span>   
+            <span class="menu-cima"> Empresas </span>
 
-        <span id="cor-nav5" class="menu-cima"> Baixe o app</span>
+            <span class="menu-cima"> Vote na gente </span>
 
-        <span id="cor-nav6" class="menu-cima"> Receba hoje</span>   
+            <span class="menu-cima"> Baixe o app</span>
 
-        <span id="cor-nav7" class="menu-cima"> Produtos importados</span>   
+            <span class="menu-cima"> Receba hoje</span>
 
-        <span id="cor-nav8" class="menu-cima"> Venda com a gente</span>   
+            <span class="menu-cima"> Produtos importados</span>
 
-        <span id="cor-nav9" class="menu-cima"> Oferta do dia</span> 
-    
-    </header>    
+            <span class="menu-cima"> Venda com a gente</span>
+
+            <span  class="menu-cima"> Oferta do dia</span>
+
+        </div>
+
+    </header>
 );
 
 export default Headernav;

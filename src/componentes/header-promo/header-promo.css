@@ -1,12 +1,31 @@
 #headerpromo{
     position: relative;  
 
-    width: 100%;    
-    background-color: rgb(255, 255, 255);
+    width: 100%; 
+    height: auto;   
+    /*background-color: rgb(255, 255, 255);*/
 }
 
 #promotopo{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+
+
+
+@media only screen and (max-width: 360px) {
+    
+
+    #headerpromo{
+        display: none;
+    }
+    
+    #promotopo{
+        display: none;
+    }
+    
+        
+    
 }

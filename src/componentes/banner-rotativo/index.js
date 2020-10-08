@@ -15,22 +15,19 @@ const Bannerrotativo = () => (
 
         <Carousel>
             <Carousel.Item>
-                <img 
-                    className="d-block w-100"
+                <img                     
                     src= { Banner1 }
                     alt=""
                 />               
             </Carousel.Item>
             <Carousel.Item>
-                <img
-                    className="d-block w-100"
+                <img                   
                     src= { Banner2 }
                     alt=""
                 />
             </Carousel.Item>
             <Carousel.Item>
-                <img
-                    className="d-block w-100"
+                <img                  
                     src= { Banner3 }
                     alt=""
                 />

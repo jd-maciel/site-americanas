@@ -16,13 +16,13 @@ const Bannermid = () => (
         <div id="superior">
 
             <div id="cor12" class="banner-promo">
-            <img src={ Bannerpromosup1 } alt=""/>
+                <img src={ Bannerpromosup1 } alt=""/>
             </div>
             <div id="cor13" class="banner-promo">
-            <img src={ Bannerpromosup2 } alt=""/>
+                <img src={ Bannerpromosup2 } alt=""/>
             </div>
             <div id="cor14" class="banner-promo">
-            <img src={ Bannerpromosup3 } alt=""/>
+                <img src={ Bannerpromosup3 } alt=""/>
             </div>
 
         </div>
