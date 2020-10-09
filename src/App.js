@@ -12,26 +12,21 @@ import "./global.css";
 
 function App() {
   return (
-    <>
+      <>
 
-      <Headerpromo />
+        <Headerpromo />
 
-      <Headermid />
+        <Headermid />
 
-      <Headernav />
+        <Headernav />
 
-      <Headernavsub />
+        <Headernavsub />
 
-      <Containerpromo />
+        <Containerpromo />
 
+        <Sitetotal />
 
-      <Sitetotal />
-
-
-
-
-
-    </>
+      </>
   );
 }
 

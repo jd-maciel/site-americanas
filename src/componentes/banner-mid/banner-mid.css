@@ -47,6 +47,16 @@
     
 }
 
+.banner-promo img{
+    width: 100%;
+    object-fit: cover;
+}
+
+.banner-promo-inferior img{
+    width: 100%;
+    object-fit: cover;
+}
+
 
 
 .banner-promo-inferior{
